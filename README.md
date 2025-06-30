@@ -25,7 +25,7 @@ Le jeu s'arrête lorsque il n’existe plus aucun groupe à supprimer. Dans ce c
 
 - Partie :
 
-![Menu Princpale](/Image/SousMenu.png)
+![Menu Princpale](/Image/Game.png)
 
 - Menu de fin : 
   - Permet de voir le score avant de quitter le jeu
