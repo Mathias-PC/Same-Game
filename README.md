@@ -24,4 +24,4 @@ Le jeu s'arrête lorsque il n’existe plus aucun groupe à supprimer. Dans ce c
 ![Menu Princpale](/Image/SousMenu.png)
 
 > [!TIP]
-> Pour plus d'information sur les Fonctionnalités du Sous Menu je vous invites à lire notre Rapport [ICI](#Rapport SAE21_2025 SAME GAME Lukas SIMOES et Mathias PLACIDE--CONTRERAS.pdf) ! 
+> Pour plus d'information sur les Fonctionnalités du Sous Menu je vous invites à lire notre Rapport [ICI](/Rapport SAE21_2025 SAME GAME Lukas SIMOES et Mathias PLACIDE--CONTRERAS.pdf) ! 
