@@ -1,2 +1,4 @@
-# Projet-Java
-Sae Projet en BUT Informatique
+# DEV_SAE_BUT_Informatique
+## Projet réalisé par :
+ - Mathias PLACIDE--CONTRERAS
+ - Lukas SIMOES
