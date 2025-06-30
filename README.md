@@ -13,3 +13,11 @@ Le jeu s'arrête lorsque il n’existe plus aucun groupe à supprimer. Dans ce c
 > Quitter le jeu fermeras le programme
 
 ![Menu Princpale](/Image/Menu.png)
+
+- Présence d'un sous-menu qui permet à l’utilisateur de :
+  - Lancer une partie avec une grille chargée via un fichier
+  - Lancer une partie avec une grille chargée aléatoirement
+  - Quitter le jeu
+> [!NOTE]
+> Quitter le jeu fermeras le programme
+![Menu Princpale](/Image/SousMenu.png)
