@@ -9,4 +9,7 @@ Le programme a pour but de permettre à l'utilisateur de jouer à une partie de 
 Le jeu s'arrête lorsque il n’existe plus aucun groupe à supprimer. Dans ce cas, l’utilisateur peut voir son score ou quitter le jeu.
 ## Fonctionnalités
 - Menu principal : Possibilité de lancer une partie ou de quitter le jeu
+  > [!NOTE]
+  > Quitter le jeu fermeras le programme
+
 ![Menu Princpale](/Image/Menu.png)
